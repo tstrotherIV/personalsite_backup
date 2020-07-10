@@ -1,0 +1,11 @@
+#darkblue {
+  background: #011627;
+}
+
+.shadow {
+  box-shadow: 0px 8px 15px rgba(0, 0, 0, 0.5);
+}
+
+.boxheight {
+  min-height: 300px;
+}
